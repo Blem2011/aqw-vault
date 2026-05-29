@@ -1,5 +1,5 @@
 ## AQW Vault
-![AQW Vault UI](screenshots/intro.PNG)
+![AQW Vault UI](screenshots/intro.png)
 
 ## Features
 
