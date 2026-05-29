@@ -7,6 +7,7 @@
 - Modern desktop UI
 - Local data storage
 - Fast access system
+- Languaje Español/English
 
 ## Screenshot
 
