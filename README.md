@@ -15,3 +15,5 @@ JavaScript
 HTML/CSS
 LowDB
 Screenshot
+
+![AQW Vault UI](screenshots/dashboard.png)
