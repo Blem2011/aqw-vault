@@ -1,6 +1,5 @@
 ## AQW Vault
-
-Desktop account management and utility tool for AQW built with Electron and Node.js.
+![AQW Vault UI](screenshots/intro.PNG)
 
 ## Features
 
