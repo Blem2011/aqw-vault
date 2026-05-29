@@ -18,4 +18,4 @@ Screenshot
 
 ## Screenshot
 
-![AQW Vault UI](screenshots/dashboard.png)
+![AQW Vault UI](screenshots/dashboard.PNG)
