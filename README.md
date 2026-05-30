@@ -14,3 +14,24 @@
 
 ![AQW Vault UI](screenshots/dash1.PNG)
 ![AQW Vault UI](screenshots/edit.PNG)
+
+## Installation
+- Windows
+- 
+- Download the latest Windows release:
+
+➡️ Download AQW Vault
+
+- Extract the ZIP file and run the executable.
+- 
+## Build From Source
+- 
+- If you want to run the project manually:
+- 
+ Clone the repository
+git clone https://github.com/Blem2011/aqw-vault.git
+cd aqw-vault
+Install dependencies
+npm install
+Start the application
+npm start
