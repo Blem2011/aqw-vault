@@ -11,4 +11,5 @@
 
 ## Screenshot
 
-![AQW Vault UI](screenshots/dashboard.PNG)
+![AQW Vault UI](screenshots/dash1.PNG)
+![AQW Vault UI](screenshots/edit.PNG)
