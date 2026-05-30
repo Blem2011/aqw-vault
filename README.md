@@ -8,6 +8,7 @@
 - Local data storage
 - Fast access system
 - Languaje Español/English
+- Portable
 
 ## Screenshot
 
